@@ -3,7 +3,8 @@ Modules to configure microservices
 
 1) Add eureka and spring cloud service
 
-    </dependencies>
+
+     </dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
